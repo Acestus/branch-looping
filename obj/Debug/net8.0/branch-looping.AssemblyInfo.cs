@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("branch-looping")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e52dc7b97fdfe5ce1aaf3b62cc51ed98b5dda42")]
 [assembly: System.Reflection.AssemblyProductAttribute("branch-looping")]
 [assembly: System.Reflection.AssemblyTitleAttribute("branch-looping")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

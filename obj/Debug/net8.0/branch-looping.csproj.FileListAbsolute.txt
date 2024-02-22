@@ -1,0 +1,15 @@
+C:\Users\wbalconi\git\free-code-camp\branch-looping\bin\Debug\net8.0\branch-looping.exe
+C:\Users\wbalconi\git\free-code-camp\branch-looping\bin\Debug\net8.0\branch-looping.deps.json
+C:\Users\wbalconi\git\free-code-camp\branch-looping\bin\Debug\net8.0\branch-looping.runtimeconfig.json
+C:\Users\wbalconi\git\free-code-camp\branch-looping\bin\Debug\net8.0\branch-looping.dll
+C:\Users\wbalconi\git\free-code-camp\branch-looping\bin\Debug\net8.0\branch-looping.pdb
+C:\Users\wbalconi\git\free-code-camp\branch-looping\obj\Debug\net8.0\branch-looping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wbalconi\git\free-code-camp\branch-looping\obj\Debug\net8.0\branch-looping.AssemblyInfoInputs.cache
+C:\Users\wbalconi\git\free-code-camp\branch-looping\obj\Debug\net8.0\branch-looping.AssemblyInfo.cs
+C:\Users\wbalconi\git\free-code-camp\branch-looping\obj\Debug\net8.0\branch-looping.csproj.CoreCompileInputs.cache
+C:\Users\wbalconi\git\free-code-camp\branch-looping\obj\Debug\net8.0\branch-looping.sourcelink.json
+C:\Users\wbalconi\git\free-code-camp\branch-looping\obj\Debug\net8.0\branch-looping.dll
+C:\Users\wbalconi\git\free-code-camp\branch-looping\obj\Debug\net8.0\refint\branch-looping.dll
+C:\Users\wbalconi\git\free-code-camp\branch-looping\obj\Debug\net8.0\branch-looping.pdb
+C:\Users\wbalconi\git\free-code-camp\branch-looping\obj\Debug\net8.0\branch-looping.genruntimeconfig.cache
+C:\Users\wbalconi\git\free-code-camp\branch-looping\obj\Debug\net8.0\ref\branch-looping.dll
